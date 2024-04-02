@@ -3,7 +3,7 @@
 # webdesign
 - :1st_place_medal: Hi Im Andi Kurtiqi 
 - :soccer: Ive played soccer many years
-- :ski: I love skiiing
+- :ski: I love skiing
 - :sunglasses: I like sunny weather
 - :hot_face: I like spicy food
 
