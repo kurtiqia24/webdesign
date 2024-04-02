@@ -7,4 +7,4 @@
 - :sunglasses: I like sunny weather
 - :hot_face: I like spicy food
 
-This is a link to my [portfolio](https://kurtiqia24.github.io/Portfolio/index.html) 
+This is a link to my [portfolio](https://kurtiqia24.github.io/Portfolio/) 
